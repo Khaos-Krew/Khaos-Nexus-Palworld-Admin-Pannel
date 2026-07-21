@@ -1,0 +1,12 @@
+# Khaos Admin Deck runtime files
+KhaosAdminDeck/ipc/request.kad
+KhaosAdminDeck/ipc/request.kad.tmp
+KhaosAdminDeck/ipc/status.kad
+KhaosAdminDeck/ipc/status.kad.tmp
+KhaosAdminDeck/ipc/activity.log
+
+# Local builds and backups
+*.zip
+*.backup-*
+.DS_Store
+Thumbs.db
