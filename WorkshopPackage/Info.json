@@ -1,0 +1,25 @@
+{
+  "ModName": "Khaos Admin Deck UI",
+  "PackageName": "KhaosAdminDeck",
+  "Thumbnail": "thumbnail.png",
+  "Version": "0.2.0-preview",
+  "DebugMode": true,
+  "MinRevision": 0,
+  "Author": "Khaos Nexus",
+  "Dependencies": [],
+  "Tags": [
+    "UE4SS",
+    "Utilities",
+    "User Interface"
+  ],
+  "InstallRule": [
+    {
+      "Type": "Lua",
+      "Targets": [
+        "./Scripts",
+        "./UI",
+        "./ipc"
+      ]
+    }
+  ]
+}
